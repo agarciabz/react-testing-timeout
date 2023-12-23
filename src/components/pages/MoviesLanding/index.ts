@@ -1,0 +1,1 @@
+export { MoviesLanding } from './MoviesLanding';
